@@ -30,13 +30,11 @@
 - [防抖和节流](https://youky1.github.io/前端/JS/防抖和节流) 
 
 ### React
-- [0. 基本概念](https://youky1.github.io/前端/React/0. 基本概念) 
-- [1. 调试React源码](https://youky1.github.io/前端/React/1. 调试React源码) 
-- [2. Fiber架构](https://youky1.github.io/前端/React/2. Fiber架构) 
-- [3. render阶段](https://youky1.github.io/前端/React/3. render阶段) 
-- [4. commit阶段](https://youky1.github.io/前端/React/4. commit阶段) 
-- [5. schedule阶段](https://youky1.github.io/前端/React/5. schedule阶段) 
-- [6. 错误捕获](https://youky1.github.io/前端/React/6. 错误捕获) 
+- [Fiber架构](https://youky1.github.io/前端/React/Fiber架构) 
+- [事件机制](https://youky1.github.io/前端/React/事件机制) 
+- [基本概念](https://youky1.github.io/前端/React/基本概念) 
+- [生命周期](https://youky1.github.io/前端/React/生命周期) 
+- [错误捕获](https://youky1.github.io/前端/React/错误捕获) 
 
 ### TS
 - [type和interface的异同点](https://youky1.github.io/前端/TS/type和interface的异同点) 
